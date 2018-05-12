@@ -1,4 +1,8 @@
 _repo: About-My-Father-s-Business-Work-Amidst-the-Sick-the-Sad-and-the-Sorrowing_50973
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50973-h/images/cover.jpg
 creator:
   author:
     agent_name: Archer, Thomas
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '33631'
     url: http://www.gutenberg.org/2009/agents/33631
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50973#About-My-Father-s-Business-Work-Amidst-the-Sick-the-Sad-and-the-Sorrowing
 gutenberg_issued: '2016-01-20'
 gutenberg_type: Text
 identifiers:
